@@ -7,6 +7,5 @@ class Shoe
     @shoe = shoe
   end
 
-  
 
 end
